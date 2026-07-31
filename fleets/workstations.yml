@@ -67,10 +67,7 @@ controls:
   ###########################################################
   apple_settings:
     configuration_profiles:
-      
-  windows_settings:
-    configuration_profiles:
-      - paths: ../platforms/windows/configuration-profiles/set-wallpaper.ps1
+
   ###########################################################
   # Managed disk encryption
   #
