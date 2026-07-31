@@ -13,6 +13,7 @@
 
 org_settings:
   org_info:
+    org_name: Fleet Training
     ###########################################################
     # The name of your organization is displayed to end users
     # during the setup experience for new hardware, and to admins
@@ -21,7 +22,6 @@ org_settings:
     # Read more:
     #   • https://fleetdm.com/docs/configuration/yaml-files#org-info
     ###########################################################
-    org_name: Fleet Training
 
   server_settings:
     ###########################################################
