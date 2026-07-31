@@ -67,6 +67,7 @@ controls:
   ###########################################################
   apple_settings:
     configuration_profiles:
+      - path: ../platforms/ios/configuration-profiles/passcode-settings.json
 
   ###########################################################
   # Managed disk encryption
@@ -111,7 +112,7 @@ controls:
   ###########################################################
   scripts:
     - paths: ../platforms/macos/scripts/*.sh
-    - paths: ../platforms/windows/scripts/*.ps1
+    - path: ../platforms/windows/scripts/set-wallpaper.ps1
     - paths: ../platforms/linux/scripts/*.sh
 
 ###########################################################
